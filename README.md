@@ -8,3 +8,5 @@ Usage:
 -h : for displaying the usage or help message.
 
 server -r -p 2000 || server -p 2000 -r
+
+P.S : compile with gcc.
